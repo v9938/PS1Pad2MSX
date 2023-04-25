@@ -26,11 +26,11 @@ Instructions for wiring follows below.
 | :- |  :- |  :- |  :- |
 | 1 | UP | D4 | Digital Pin |
 | 2 | DOWN | D5 | Digital Pin |
-| 3 | LEFT | D5 | Digital Pin |
-| 4 | RIGHT | D5 | Digital Pin |
+| 3 | LEFT | D6 | Digital Pin |
+| 4 | RIGHT | D7 | Digital Pin |
 | 5 | +5V | +5V | Power +5V |
-| 6 | TRIG A | D5 | Digital Pin |
-| 7 | TRIG B | D5 | Digital Pin |
+| 6 | TRIG A | D8 | Digital Pin |
+| 7 | TRIG B | D9 | Digital Pin |
 | 8 | COM | - | - |
 | 9 | GND | GND | Power GND |
 
